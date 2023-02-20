@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.90daysofdevops.com)](https://www.90daysofdevops.com) [![GitHub Repo stars](https://img.shields.io/github/stars/MichaelCade/90DaysOfDevOps)](https://github.com/MichaelCade/90DaysOfDevOps)
 
-This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 1st January 2022 but the idea is that we take 90 days which just so happens to be January 1st to March 31st.
+This repository is used to document my journey on getting a better foundational knowledge of "DevOps". I will be starting this journey on the 21st of Feburary 2023 but the idea is that we take 90 days which just so happens to be feburary 21st to may 21st.
 
 The reason for documenting these days is so that others can take something from it and also hopefully enhance the resources.
 
@@ -18,7 +18,7 @@ This will **not cover all things** "DevOps" but it will cover the areas that I f
 
 ![GitHub Repo Stars](https://img.shields.io/github/stars/michaelcade/90daysofdevops?style=social?)
 
-The two images below will take you to the 2022 and 2023 edition of the learning journey. 
+The two images below will take you to the  2023 edition of the learning journey. 
 
 <p align="center">
  <a href="2022.md">
